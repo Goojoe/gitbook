@@ -1,3 +1,5 @@
+<head><meta name="referrer" content="no-referrer"/></head>
+
 # 安装Docker
 
 ## Docker Wiki
