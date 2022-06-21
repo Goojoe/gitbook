@@ -13,7 +13,8 @@
 ```bash
 "registry-mirrors":[
 "https://hub-mirror.c.163.com",
-"https://mirror.baidubce.com"
+"https://mirror.baidubce.com
 ],
 ```
 
+![](http://n1.itc.cn/img8/wb/recom/2016/12/01/148058893940093339.JPEG)
