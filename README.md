@@ -1,8 +1,7 @@
-<html>
+
     <head>
     <meta name="referrer" content="no-referrer"/>
     </head>
-</html>
 
 # 安装Docker
 
