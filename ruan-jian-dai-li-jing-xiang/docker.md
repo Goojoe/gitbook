@@ -33,7 +33,7 @@ vim /etc/docker/daemon.json
 "registry-mirrors": [
 "https://registry.cn-hangzhou.aliyuncs.com",
 "https://hub-mirror.c.163.com",
-"https://mirror.baidubce.com
+"https://mirror.baidubce.com"
 ]
 }
 ```
