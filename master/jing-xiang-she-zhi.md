@@ -15,7 +15,8 @@
 ```bash
 "registry-mirrors":[
 "https://hub-mirror.c.163.com",
-"https://mirror.baidubce.com
+"https://mirror.baidubce.com",
+"https://registry.cn-hangzhou.aliyuncs.com"
 ],
 ```
 
