@@ -1,7 +1,3 @@
-<meta name="referrer" content="no-referrer"/>
-
-# 安装Docker
-
 ## Docker Wiki
 
 > [菜鸟教程](https://www.runoob.com/docker/ubuntu-docker-install.html)
@@ -17,4 +13,4 @@
 ],
 ```
 
-![](https://i0.hdslb.com/bfs/album/08233021462e2c854ec36617748cd7e90f65b49d.png)
+![](https://i0.hdslb.com/bfs/album/e138a915ec84655727c76d85b12c237627f326aa.png)
