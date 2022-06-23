@@ -1,5 +1,9 @@
 # Ubuntu
 
+## Ubuntu 系统镜像
+
+https://mirrors.aliyun.com/ubuntu-releases/
+
 ## 14.04
 
 ```
@@ -19,7 +23,7 @@ deb-src http://mirrors.aliyun.com/ubuntu/ trusty-backports main restricted unive
 # deb-src http://mirrors.aliyun.com/ubuntu/ trusty-proposed main restricted universe multiverse
 ```
 
-##  16.04
+## 16.04
 
 ```
 deb http://mirrors.aliyun.com/ubuntu/ xenial main
@@ -98,8 +102,6 @@ deb http://archive.canonical.com/ubuntu/ hirsute partner
 deb http://extras.ubuntu.com/ubuntu/ hirsute main
 ```
 
-
-
 ## 22.04(jammy)
 
 ```
@@ -118,6 +120,7 @@ deb-src http://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe
 deb http://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted universe multiverse
 deb-src http://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted universe multiverse
 ```
+
 ## 替换镜像
 
 ```
@@ -135,7 +138,6 @@ http://mirrors.aliyun.com/ubuntu/
 |    南京大学    |      https://mirror.nju.edu.cn/ubuntu/       |
 |      网易      |        http://mirrors.163.com/ubuntu/        |
 
->   [ubuntu全球镜像站](https://launchpad.net/ubuntu/+cdmirrors)
+> [ubuntu 全球镜像站](https://launchpad.net/ubuntu/+cdmirrors)
 >
->   https://mirrors.huaweicloud.com/home
-
+> https://mirrors.huaweicloud.com/home

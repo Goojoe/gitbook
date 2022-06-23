@@ -1,5 +1,9 @@
 # Debian
 
+## Debian 系统镜像
+
+https://repo.huaweicloud.com/debian-cd/
+
 ## 7.x (wheezy)
 
 ```
@@ -60,7 +64,7 @@ deb-src http://mirrors.aliyun.com/debian/ bullseye-backports main non-free contr
 
 ## 替换镜像
 
-``` 
+```
 http://mirrors.aliyun.com/debian/
 ```
 
@@ -74,6 +78,6 @@ http://mirrors.aliyun.com/debian/
 | 南京大学 |      https://mirror.nju.edu.cn/debian/       |
 |   网易   |        http://mirrors.163.com/debian/        |
 
->   [Debian全球镜像站](https://www.debian.org/mirror/list.zh-cn.html)
+> [Debian 全球镜像站](https://www.debian.org/mirror/list.zh-cn.html)
 >
->   https://developer.aliyun.com/mirror/debian
+> https://developer.aliyun.com/mirror/debian
