@@ -15,7 +15,7 @@
   * [wget](ruan-jian-dai-li-jing-xiang/wget.md)
   * [snap](ruan-jian-dai-li-jing-xiang/snap.md)
   * [docker](ruan-jian-dai-li-jing-xiang/docker.md)
-  * [Linux](ruan-jian-dai-li-jing-xiang/linux/README.md)
+  * [Linux镜像源](ruan-jian-dai-li-jing-xiang/linux/README.md)
     * [yum](ruan-jian-dai-li-jing-xiang/linux/yum/README.md)
       * [CentOS](ruan-jian-dai-li-jing-xiang/linux/yum/centos.md)
     * [apt](ruan-jian-dai-li-jing-xiang/linux/apt/README.md)
