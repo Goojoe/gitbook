@@ -22,3 +22,4 @@
   * [curl](ruan-jian-dai-li-jing-xiang/curl.md)
   * [go get](ruan-jian-dai-li-jing-xiang/go-get.md)
   * [snap](ruan-jian-dai-li-jing-xiang/snap.md)
+* [小米手机刷机](xiao-mi-shou-ji-shua-ji.md)
