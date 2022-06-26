@@ -22,4 +22,7 @@
   * [curl](ruan-jian-dai-li-jing-xiang/curl.md)
   * [go get](ruan-jian-dai-li-jing-xiang/go-get.md)
   * [snap](ruan-jian-dai-li-jing-xiang/snap.md)
-* [小米手机刷机](xiao-mi-shou-ji-shua-ji.md)
+* [小米手机刷机](xiao-mi-shou-ji-shua-ji/README.md)
+  * [1.备份](xiao-mi-shou-ji-shua-ji/1.-bei-fen.md)
+  * [2.Rom包下载](xiao-mi-shou-ji-shua-ji/2.rom-bao-xia-zai.md)
+  * [3.Root](xiao-mi-shou-ji-shua-ji/3.root.md)
