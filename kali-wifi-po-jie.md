@@ -2,11 +2,15 @@
 
 ## 1.监听
 
+```
 airmon-ng start wlan0
+```
 
 ## 2.搜索网络
 
+```
 airodump-ng wlan0mon
+```
 
 ## 3.监听 Wi-Fi 抓包
 
