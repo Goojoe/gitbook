@@ -27,3 +27,4 @@
   * [1.备份](xiao-mi-shou-ji-shua-ji/1.-bei-fen.md)
   * [2.Rom包下载](xiao-mi-shou-ji-shua-ji/2.rom-bao-xia-zai.md)
   * [3.Root](xiao-mi-shou-ji-shua-ji/3.root.md)
+* [Kali WIFI 破解](kali-wifi-po-jie.md)
