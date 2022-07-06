@@ -76,6 +76,8 @@ git clone https://gitclone.com/github.com/conwnet/wpa-dictionary.git
 
 ## Fluixon
 
+apt install git
+
 ### 1.安装
 ```
 # 国内
