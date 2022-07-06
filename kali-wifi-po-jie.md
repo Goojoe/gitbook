@@ -72,3 +72,21 @@ aireplay-ng --deauth 0 -a 18:F2:2C:26:30:70 --ignore-negative-one wlan0mon
 ```
 git clone https://gitclone.com/github.com/conwnet/wpa-dictionary.git
 ```
+
+
+## Fluixon
+
+### 1.安装
+```
+# 国内
+git clone https://gitclone.com/github.com/FluxionNetwork/fluxion.git
+
+# 国外
+git clone https://www.github.com/FluxionNetwork/fluxion.git
+
+# 进入fluxion目录
+cd fluxion
+
+# 安装
+sudo chmod +x ./fluxion.sh && ./fluxion.sh -i
+```
