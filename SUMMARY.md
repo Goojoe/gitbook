@@ -34,3 +34,4 @@
   * [DNS设置](archlinux-an-zhuang/dns-she-zhi.md)
   * [字体](archlinux-an-zhuang/zi-ti.md)
   * [时间](archlinux-an-zhuang/shi-jian.md)
+  * [常用软件](archlinux-an-zhuang/chang-yong-ruan-jian.md)
