@@ -18,5 +18,5 @@ noto-fonts-sc \
 noto-fonts-tc \
 ttf-ms-win10-zh_cn
 
-
 ```
+> https://wiki.archlinux.org/title/Fonts_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
