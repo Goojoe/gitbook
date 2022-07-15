@@ -4,10 +4,10 @@ sudo pacman -S fcitx5 \
 fcitx5-chinese-addons \
 fcitx5-gtk \
 fcitx5-qt \
-fcitx5-pinyin-zhwiki
-
-paru -S fcitx5-pinyin-sougou \
-fcitx5-pinyin-moegirl-rime
+fcitx5-pinyin-zhwiki \
+fcitx5-pinyin-sougou \
+fcitx5-pinyin-moegirl-rime \
+fcitx5-material-color
 ```
 ## 集成
 ```
