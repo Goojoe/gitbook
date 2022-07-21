@@ -35,3 +35,4 @@
   * [字体](archlinux-an-zhuang/zi-ti.md)
   * [时间](archlinux-an-zhuang/shi-jian.md)
   * [常用软件](archlinux-an-zhuang/chang-yong-ruan-jian.md)
+* [使用Gitbash在Windows-Terminal\_VSCode使用zsh](shi-yong-gitbash-zai-windowsterminalvscode-shi-yong-zsh.md)
